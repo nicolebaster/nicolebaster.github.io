@@ -139,7 +139,7 @@
           },
           "_anchor": "header2-2",
           "_params": {
-            "imageSize": "41",
+            "imageSize": "38",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1468649437954-f86751c119b6-2000x1333.jpg",
