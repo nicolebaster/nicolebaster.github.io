@@ -111,7 +111,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logoand-signature-384x128-3.png",
+              "src": "@PROJECT_PATH@/assets/images/logoand-signature-384x128_3.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
