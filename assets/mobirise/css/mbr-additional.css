@@ -5,6 +5,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -477,8 +478,20 @@ h6,
 #header2-2 .mbr-section-title {
   text-align: center;
 }
-#header3-6 .mbr-section-title,
-#header3-6 .mbr-section-subtitle {
+#content1-1w P {
+  text-align: center;
+  color: #000000;
+  font-family: 'Lora', serif;
+}
+#header3-1x .mbr-section-title,
+#header3-1x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1y .mbr-section-title,
+#header3-1y .mbr-section-subtitle {
+  text-align: center;
+}
+#features6-1q P {
   text-align: center;
 }
 #ext_menu-e .hide-buttons .nav-btn {
