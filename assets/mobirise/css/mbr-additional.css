@@ -487,9 +487,15 @@ h6,
 #header3-1x .mbr-section-subtitle {
   text-align: center;
 }
+#header3-1x H3 {
+  text-align: right;
+}
 #header3-1y .mbr-section-title,
 #header3-1y .mbr-section-subtitle {
   text-align: center;
+}
+#header3-1y H3 {
+  text-align: right;
 }
 #features6-1q P {
   text-align: center;
