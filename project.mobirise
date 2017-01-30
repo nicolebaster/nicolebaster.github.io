@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 71,
-    "versionPublish": "3.10.7",
+    "uniqCompNum": 74,
+    "versionPublish": "3.11.1",
     "path": "file:///F:",
     "screenshot": "screenshot.png"
   },
@@ -111,7 +111,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logoand-signature-384x128_3.png",
+              "src": "@PROJECT_PATH@/assets/images/logoand-signature-384x128-3.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\" target=\"_blank\">Introduction Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\" target=\"_blank\">Introduction Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-1q\" target=\"_blank\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Microsoft Word\">Microsoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Microsoft Powerpoint\">Microsoft Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator\" aria-expanded=\"false\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator\" aria-expanded=\"false\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere\" aria-expanded=\"false\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D - 3D Design\" aria-expanded=\"false\">123D - 3D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Photoshop\">Industry Certified Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Illustrator\">industry Certified Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Premiere\">industry Certified Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Audition\">industry Certified Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe DreamWeaver\">industry Certified Adobe DreamWeaver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Transcript\">Transcript</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp; &nbsp; &nbsp; WORK &nbsp;&nbsp;<br>EXPERIENCE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Honors Teacher\">Honors Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Community Member\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Family Friend\">Family Friend</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\" target=\"_blank\">Introduction Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\" target=\"_blank\">Introduction Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-1q\" target=\"_blank\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Microsoft Word\">Microsoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Microsoft Powerpoint\">Microsoft Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator\" aria-expanded=\"false\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator\" aria-expanded=\"false\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere\" aria-expanded=\"false\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D - 3D Design\" aria-expanded=\"false\">123D - 3D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Photoshop\">Industry Certified Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Illustrator\">industry Certified Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Premiere\">industry Certified Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Audition\">industry Certified Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe DreamWeaver\">industry Certified Adobe DreamWeaver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Transcript\">Transcript</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp; &nbsp; &nbsp; &nbsp;WORK &nbsp;&nbsp;<br>EXPERIENCE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Honors Teacher\">Honors Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Community Member\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Family Friend\">Family Friend</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Social Media</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">RESUME</a></li>"
         },
         {
           "_tags": [
@@ -134,7 +134,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".mbr-section-text": {
+              "text-align": "left"
             }
           },
           "_anchor": "header2-2",
@@ -180,9 +185,9 @@
               "size": 250
             }
           },
-          "title": "Biography",
-          "text": "Full s<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-1w\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "&nbsp;All About Nicole Baster",
+          "text": "<br>&nbsp; &nbsp; &nbsp;Nicole Baster is &nbsp;a skilled artist who finds joy in ALL of her art work. &nbsp;When Nicole was a litle girl, she always found the concept of art interesting. &nbsp;She would make art work for her parents, take pictures of nature, create characters, etc. When Nicole was about five years old, she joined an art studio called Pricilla and Tiffany Art Corp. As she began &nbsp;spending more and more years at the studio, she began realizing that this was what she wanted to do from now on . &nbsp; &nbsp; &nbsp; &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-1w\" data-toolbar=\"-mbrBtnMove\">CONTINUATION</a>"
         },
         {
           "_tags": [
@@ -211,7 +216,9 @@
               "text-align": "center"
             },
             "H3": {
-              "text-align": "right"
+              "text-align": "right",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           },
           "_tags": [
@@ -239,9 +246,9 @@
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</span><br></p>",
-          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</span><br></p>",
-          "text3": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</span><br></p>"
+          "text1": "&nbsp; Nicole Baster is  a skilled artist who finds joy in ALL of her art work.  When Nicole was a litle girl, she always found the concept of art interesting.  She would make art work for her parents, take pictures of nature, create characters, etc. When Nicole was about five years old, she joined an art studio called Pricilla and Tiffany Art Corp. As she began  spending more and more years at the studio, she began realizing that this was what she wanted to do from now on . Now as a thirteen year old, she has produced many eye catching pieces of art work.&nbsp;",
+          "text2": "Nicole has done paintings from animals all the way to humans. She has proven to create anything you ask her to whenever and wherever you want. She takes pride in her work and loves what she does. Nicole Baster is currently attending Miami Arts Studio and is in the strand Technology Production. She is learning how to become a professional graphic artist and also learning how to use softwares such as the whole Adobe and Microsoft Suite. When Nicole gets an opportunity to learn more about graphic arts, she takes advantage of it and does the best&nbsp;",
+          "text3": "she can! Nicole is thinking about making a future of her graphic artist skills and working for Pixar Animation Studios. Nicole believes that with her knowledge about art and graphic art, she will succeed in everything she does. As an artist, she plans to inpire people everywhere she goes. Nicole always puts 100% of effort into her work and is always looking for a great challenge to conquer."
         },
         {
           "_styles": {
@@ -249,7 +256,9 @@
               "text-align": "center"
             },
             "H3": {
-              "text-align": "right"
+              "text-align": "right",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           },
           "_tags": [
@@ -274,7 +283,7 @@
           "_name": "features6",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_anchor": "features6-1q",
@@ -293,7 +302,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -350,17 +359,19 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
+              "linkInNewWindow": false,
+              "name": "briefcase",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "family": "et-line"
+              "color": "#706f6f"
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "World Traveler",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Traveling around the world, taking gorgeous pictures, and then recreating them digitally or hand painted is another goal I would also want to achieve in the near future.&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -557,14 +568,28 @@
             "showSubtitle": true
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-b",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          },
+          "_anchor": "contacts1-20",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -597,9 +622,9 @@
               "color": "#ffffff"
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>"
         }
       ]
     },
@@ -723,9 +748,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -849,9 +882,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -976,9 +1017,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -1105,9 +1154,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -1284,9 +1341,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -1413,9 +1478,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -1542,9 +1615,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -1671,9 +1752,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -1800,9 +1889,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -1929,9 +2026,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -2056,9 +2161,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -2183,9 +2296,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -2310,9 +2431,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -2437,9 +2566,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -2564,9 +2701,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -2691,9 +2836,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -2818,9 +2971,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -2945,9 +3106,17 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     },
@@ -3072,9 +3241,189 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
+        }
+      ]
+    },
+    "Social Media.html": {
+      "settings": {
+        "title": "Web Page Builder Title",
+        "meta_descr": "Web Page Builder Description"
+      },
+      "components": [
+        {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-21",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "youtube": "UCt_tncVAetpK5JeM8L-8jyw",
+            "facebook": "mobirise",
+            "twitter": "mobirise",
+            "google": "+mobirise",
+            "postToLoad": 3,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          },
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#71c29e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#8accaf!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#95d1b6"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1z",
+          "_params": {
+            "bgColor": "#95d1b6",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoand-signature-384x128-3.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\" target=\"_blank\">Introduction Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\" target=\"_blank\">Introduction Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features6-1q\" target=\"_blank\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Microsoft Word\">Microsoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Microsoft Powerpoint\">Microsoft Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator\" aria-expanded=\"false\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator\" aria-expanded=\"false\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere\" aria-expanded=\"false\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D - 3D Design\" aria-expanded=\"false\">123D - 3D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Photoshop\">Industry Certified Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Illustrator\">industry Certified Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Premiere\">industry Certified Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Audition\">industry Certified Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe DreamWeaver\">industry Certified Adobe DreamWeaver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Transcript\">Transcript</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp; &nbsp; &nbsp; &nbsp;WORK &nbsp;&nbsp;<br>EXPERIENCE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Honors Teacher\">Honors Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Community Member\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Family Friend\">Family Friend</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Social Media</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">RESUME</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-20",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483809673659-fed979674d2f-2000x1324.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3c3c3c"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1438262267532-2db13fcceca2-128x85.jpg",
+              "width": 128,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#ffffff"
+            }
+          },
+          "text1": "<strong>Address</strong><br>8247 SW 148 AVE<br> 33193 Miami Florida",
+          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888<br><br>",
+          "text3": "<strong>Links</strong><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Technology Production Website<br></span><br><br><br><br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#37b699"
+            }
+          }
         }
       ]
     }
