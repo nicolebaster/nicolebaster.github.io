@@ -842,6 +842,15 @@ h6,
   color: #48a493;
 }
 
+
+#header3-36 .mbr-section-title,
+#header3-36 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-36 H3 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: right;
+}
 #ext_menu-28 .hide-buttons .nav-btn {
   display: none !important;
 }

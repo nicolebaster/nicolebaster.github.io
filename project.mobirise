@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 114,
+    "uniqCompNum": 115,
     "versionPublish": "3.11.1",
     "path": "file:///F:",
     "screenshot": "screenshot.png"
@@ -1401,6 +1401,31 @@
       "settings": {},
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-36",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Adobe Photoshop Pieces",
+          "meta": ""
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
@@ -1417,7 +1442,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/super-heroes-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/super-heroes-2000x2666.jpg",
-                "caption": "Type caption here",
+                "caption": "Avengers Compsite<br>",
                 "active": false
               },
               {
@@ -1427,7 +1452,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/celine-dion-record-2000x2666-2-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/celine-dion-record-2000x2666-2.jpg",
-                "caption": "Type caption here",
+                "caption": "Celine Dion Record Label",
                 "active": false
               },
               {
@@ -1437,7 +1462,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/logo-2000x2666-1-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/logo-2000x2666-1.jpg",
-                "caption": "Type caption here",
+                "caption": "Miami - Dade County Public Schools Logo Competition",
                 "active": false
               },
               {
@@ -1447,7 +1472,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/record-display-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/record-display-2000x2666.jpg",
-                "caption": "Type caption here",
+                "caption": "Celine Dion Record Display",
                 "active": false
               },
               {
@@ -1457,26 +1482,28 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/batman-logo-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/batman-logo-2000x2666.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "Batman Logo",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/brochure-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brochure-2000x2666.jpg",
+                "caption": "Brochure: 1st Place",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/brochure-2-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brochure-2-2000x2666.jpg",
+                "caption": "Brochure; 1st Place",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -1489,9 +1516,9 @@
               }
             ],
             "spacing": "1",
-            "showText": false,
+            "showText": true,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
