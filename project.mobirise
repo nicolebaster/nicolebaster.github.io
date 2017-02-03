@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 113,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 114,
+    "versionPublish": "3.10.7",
     "path": "file:///F:",
     "screenshot": "screenshot.png"
   },
@@ -1275,8 +1275,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/super-heroes-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/super-heroes-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1470700467371-d42b6c25c6a8-2000x1330-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1470700467371-d42b6c25c6a8-2000x1330.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -1418,43 +1418,47 @@
                 "thumb": "@PROJECT_PATH@/assets/images/super-heroes-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/super-heroes-2000x2666.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/celine-dion-record-2000x2666-2-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/celine-dion-record-2000x2666-2.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/logo-2000x2666-1-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-2000x2666-1.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/record-display-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/record-display-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/batman-logo-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/batman-logo-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Beautiful",
@@ -1623,6 +1627,26 @@
           "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
           "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
         }
       ]
     },
