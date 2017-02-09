@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Adobe Photoshop",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 122,
+    "uniqCompNum": 128,
     "versionPublish": "3.11.1",
     "path": "file:///F:",
     "screenshot": "screenshot.png"
@@ -1432,21 +1432,21 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-3d",
           "_params": {
-            "imageSize": "38",
+            "imageSize": "36",
             "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/technology-2000x833.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/technology1-2000x1332.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
             "showText": false,
@@ -1474,9 +1474,14 @@
               "size": 0
             }
           },
-          "title": "Adobe Photoshop Pices",
+          "title": "Adobe Photoshop Pieces",
           "text": ".",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -1485,8 +1490,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "images": [
               {
                 "tags": "Awesome",
@@ -1731,7 +1736,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -1831,6 +1836,160 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3f",
+          "_params": {
+            "imageSize": "36",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/technology1-2000x1332.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/adobe-illustrator-cc.svg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Adobe Illustrator&nbsp;Pieces",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#efefef",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-3e",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "STRONG": {
@@ -1852,9 +2011,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-128x128.png",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1865,6 +2028,26 @@
           "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
           "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -1964,6 +2147,160 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3g",
+          "_params": {
+            "imageSize": "36",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/technology1-2000x1332.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/adobe-premiere-pro-cc-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Adobe Premiere",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#efefef",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-3h",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "STRONG": {
@@ -1998,12 +2335,182 @@
           "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
           "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
     "Adobe DreamWeaver": {
       "settings": {},
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3i",
+          "_params": {
+            "imageSize": "36",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/technology1-2000x1332.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Adobe DreamWeaver",
+          "text": ".",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#efefef",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-3j",
+          "articleLayout": false,
+          "allItem": "All"
+        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -2118,9 +2625,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-128x128.png",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -2131,6 +2642,26 @@
           "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
           "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
           "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
