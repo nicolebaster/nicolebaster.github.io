@@ -781,6 +781,10 @@ h6,
   text-align: center;
   font-family: 'Oswald', sans-serif;
 }
+#header3-55 .mbr-section-title,
+#header3-55 .mbr-section-subtitle {
+  text-align: center;
+}
 #social-buttons3-4v .mbr-section-title,
 #social-buttons3-4v .btn-social {
   color: #fff;
@@ -788,9 +792,11 @@ h6,
 #social-buttons3-4v .mbr-section-title {
   color: #ffffff;
 }
-#contacts1-3t STRONG {
-  color: #6fc1b2;
+#contacts3-5c LI {
+  color: #ffffff;
 }
+
+
 
 
 
@@ -861,7 +867,8 @@ h6,
 }
 #header2-2 .mbr-section-title {
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 46px;
 }
 #header2-2 .mbr-section-text {
   text-align: left;
@@ -877,7 +884,7 @@ h6,
 }
 #header3-1x H3 {
   text-align: right;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Montserrat', sans-serif;
 }
 #content7-7 DIV {
   text-align: left;
@@ -888,13 +895,29 @@ h6,
 }
 #header3-1y H3 {
   text-align: right;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Montserrat', sans-serif;
 }
 #features6-1q P {
   text-align: left;
 }
+#header3-5d .mbr-section-title,
+#header3-5d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5d H3 {
+  font-family: 'Montserrat', sans-serif;
+}
 #testimonials1-a .mbr-section-title {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Montserrat', sans-serif;
+}
+#form1-57 .form-control-label {
+  color: #232323;
+}
+#form1-57 SMALL {
+  color: #585656;
+}
+#form1-57 .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
 }
 #contacts1-22 STRONG {
   color: #6fc1b2;
@@ -1034,6 +1057,9 @@ h6,
 
 #msg-box5-3d H3 {
   color: #ffffff;
+}
+#gallery2-34 .mbr-gallery-item > div > span {
+  text-align: left;
 }
 #ext_menu-28 .hide-buttons .nav-btn {
   display: none !important;
@@ -2031,74 +2057,5 @@ h6,
   color: #c0a375!important;
 }
 #contacts1-31 STRONG {
-  color: #6fc1b2;
-}
-
-#ext_menu-4w .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-4w .navbar-caption {
-  color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
-}
-#ext_menu-4w .navbar-toggler {
-  color: #000000;
-}
-#ext_menu-4w .close-icon::before,
-#ext_menu-4w .close-icon::after {
-  background-color: #000000;
-}
-#ext_menu-4w .link,
-#ext_menu-4w .dropdown-item {
-  color: #000000;
-}
-#ext_menu-4w .link {
-  font-size: 0.8rem;
-}
-#ext_menu-4w .dropdown-item,
-#ext_menu-4w .nav-dropdown-sm .link {
-  font-size: 0.866rem;
-}
-#ext_menu-4w .link:hover,
-#ext_menu-4w .dropdown-item:hover,
-#ext_menu-4w .link:focus,
-#ext_menu-4w .dropdown-item:focus {
-  color: #c0a375;
-}
-#ext_menu-4w .link[aria-expanded="true"],
-#ext_menu-4w .dropdown-menu {
-  background: #71c29e;
-}
-#ext_menu-4w .nav-dropdown-sm .link:focus,
-#ext_menu-4w .nav-dropdown-sm .link:hover,
-#ext_menu-4w .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-4w .nav-dropdown-sm .dropdown-item:hover {
-  background: #8accaf!important;
-}
-#ext_menu-4w .navbar,
-#ext_menu-4w .nav-dropdown-sm,
-#ext_menu-4w .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-4w .nav-dropdown-sm .dropdown-menu {
-  background: #95d1b6;
-}
-#ext_menu-4w .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#ext_menu-4w .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-4w .bg-color.transparent.opened .link:hover,
-#ext_menu-4w .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#ext_menu-4w .link[aria-expanded="true"],
-#ext_menu-4w .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#form1-4z .form-control-label {
-  color: #232323;
-}
-#contacts1-4x STRONG {
   color: #6fc1b2;
 }
