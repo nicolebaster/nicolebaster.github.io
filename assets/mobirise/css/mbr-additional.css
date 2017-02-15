@@ -785,17 +785,13 @@ h6,
 #header3-55 .mbr-section-subtitle {
   text-align: center;
 }
-#social-buttons3-4v .mbr-section-title,
-#social-buttons3-4v .btn-social {
+#social-buttons4-5e .mbr-section-title,
+#social-buttons4-5e .btn-social {
   color: #fff;
-}
-#social-buttons3-4v .mbr-section-title {
-  color: #ffffff;
 }
 #contacts3-5c LI {
   color: #ffffff;
 }
-
 
 
 
@@ -900,12 +896,12 @@ h6,
 #features6-1q P {
   text-align: left;
 }
-#header3-5d .mbr-section-title,
-#header3-5d .mbr-section-subtitle {
+#header3-5f .mbr-section-title,
+#header3-5f .mbr-section-subtitle {
   text-align: center;
 }
-#header3-5d H3 {
-  font-family: 'Montserrat', sans-serif;
+#header3-5f SMALL {
+  color: #494949;
 }
 #testimonials1-a .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
@@ -2057,5 +2053,71 @@ h6,
   color: #c0a375!important;
 }
 #contacts1-31 STRONG {
+  color: #6fc1b2;
+}
+
+#ext_menu-5g .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-5g .navbar-caption {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#ext_menu-5g .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-5g .close-icon::before,
+#ext_menu-5g .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-5g .link,
+#ext_menu-5g .dropdown-item {
+  color: #000000;
+}
+#ext_menu-5g .link {
+  font-size: 0.8rem;
+}
+#ext_menu-5g .dropdown-item,
+#ext_menu-5g .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-5g .link:hover,
+#ext_menu-5g .dropdown-item:hover,
+#ext_menu-5g .link:focus,
+#ext_menu-5g .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-5g .link[aria-expanded="true"],
+#ext_menu-5g .dropdown-menu {
+  background: #71c29e;
+}
+#ext_menu-5g .nav-dropdown-sm .link:focus,
+#ext_menu-5g .nav-dropdown-sm .link:hover,
+#ext_menu-5g .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-5g .nav-dropdown-sm .dropdown-item:hover {
+  background: #8accaf!important;
+}
+#ext_menu-5g .navbar,
+#ext_menu-5g .nav-dropdown-sm,
+#ext_menu-5g .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-5g .nav-dropdown-sm .dropdown-menu {
+  background: #95d1b6;
+}
+#ext_menu-5g .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-5g .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-5g .bg-color.transparent.opened .link:hover,
+#ext_menu-5g .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-5g .link[aria-expanded="true"],
+#ext_menu-5g .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#contacts1-5h STRONG {
   color: #6fc1b2;
 }
