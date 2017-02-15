@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1865,7 +1865,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/woman-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/woman-2000x1500.jpg",
-                "caption": "Portrait of a women",
+                "caption": "Portrait of a Women",
                 "active": true
               }
             ],
