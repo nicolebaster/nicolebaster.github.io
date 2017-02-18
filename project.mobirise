@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 201,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 206,
+    "versionPublish": "3.10.7",
     "path": "file:///F:",
     "screenshot": "screenshot.png"
   },
@@ -121,40 +121,109 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-f",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3c3c3c"
+            "overlayColor": "#3C3C3C"
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
         }
       ]
     },
@@ -185,10 +254,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -252,40 +321,109 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-j",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3c3c3c"
+            "overlayColor": "#3C3C3C"
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
         }
       ]
     },
@@ -384,614 +522,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-l",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3c3c3c"
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
-        }
-      ]
-    },
-    "page22.html": {
-      "settings": {
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 23
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000"
-            },
-            ".link": {
-              "font-size": "0.8rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#71c29e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#8accaf!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#95d1b6"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-3v",
-          "_params": {
-            "bgColor": "#95d1b6",
-            "fontSize": "0.8",
-            "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logoand-signature-384x128-3.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\" target=\"_blank\">Introduction Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\" target=\"_blank\">Introduction Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1y\" target=\"_blank\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Microsoft Word\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DisscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nicolebaster.github.io/Document/Discuss IT Topic 6 (1).pdf\">DisscussIT Topic 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Microsoft Powerpoint\" target=\"_blank\">Microsoft Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop\" aria-expanded=\"false\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator\" aria-expanded=\"false\" target=\"_blank\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere\" aria-expanded=\"false\" target=\"_blank\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D - 3D Design\" aria-expanded=\"false\" target=\"_blank\">123D - 3D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Photoshop\" target=\"_blank\">Industry Certified Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Illustrator\" target=\"_blank\">Industry Certified Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Premiere\">Industry Certified Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Audition\" target=\"_blank\">Industry Certified Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Dreamweaver\" target=\"_blank\">Industry Certified Adobe DreamWeaver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Transcript\" target=\"_blank\">Transcript</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Photography\" aria-expanded=\"false\" target=\"_blank\">PHOTOGRAPHY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp; &nbsp; &nbsp; &nbsp;WORK &nbsp;&nbsp;<br>EXPERIENCE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mr. Pate\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Honors Teacher\" target=\"_blank\">Honors Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Community Member\" target=\"_blank\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Family Friend\" target=\"_blank\">Family Friend</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"RESUME\" target=\"_blank\">RESUME</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            },
-            ".mbr-section-text": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "header2-3w",
-          "_params": {
-            "imageSize": "38",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1468649437954-f86751c119b6-2000x1333.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#000000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-2986-1-1400x1788.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "&nbsp;All About Nicole Baster",
-          "text": "<br>&nbsp; &nbsp; &nbsp;Nicole Baster is &nbsp;a skilled artist who finds joy in ALL of her art work. &nbsp;When Nicole was a litle girl, she always found the concept of art interesting. &nbsp;She would make art work for her parents, take pictures of nature, create characters, etc. When Nicole was about five years old, she joined an art studio called Priscilla and Tiffany Art Corp. As she began &nbsp;spending more and more years at the studio, she began realizing that this was what she wanted to do from now on . &nbsp; &nbsp; &nbsp; &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-1w\" data-toolbar=\"-mbrBtnMove\">CONTINUATION</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "color": "#000000",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_anchor": "content1-3x",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>All of our dreams can come true, if we have the courage to pursue them.</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ~ Walt Disney</p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3y",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef",
-            "showMeta": true
-          },
-          "title": "Biography",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_styles": {
-            "DIV": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content7-3z",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text1": "&nbsp; &nbsp; &nbsp;Nicole Baster is  a skilled artist who finds joy in ALL of her art work.  When Nicole was a litle girl, she always found the concept of art interesting.  She would make art work for her parents, take pictures of nature, create characters, etc. When Nicole was about five years old, she joined an art studio called Pricilla and Tiffany Art Corp. As she began  spending more and more years at the studio, she began realizing that this was what she wanted to do from now on . Now as a thirteen year old, she has produced many eye catching pieces of art work.&nbsp;",
-          "text2": "Nicole has done paintings from animals all the way to humans. She has proven to create anything you ask her to whenever and wherever you want. She takes pride in her work and loves what she does. Nicole Baster is currently attending Miami Arts Studio and is in the strand Technology Production. She is learning how to become a professional graphic artist and also learning how to use softwares such as the whole Adobe and Microsoft Suite. When Nicole gets an opportunity to learn more about graphic arts, she takes advantage of it and does the best&nbsp;",
-          "text3": "she can! Nicole is thinking about making a future of her graphic artist skills and working for Pixar Animation Studios. Nicole believes that with her knowledge about art and graphic arts, she will succeed in everything she does. As an artist, she plans to inspire people everywhere she goes. Nicole always puts 100% of effort into her work and is always looking for a great challenge to conquer."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-40",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#efefef",
-            "showMeta": true
-          },
-          "title": "Goals and Achievements",
-          "meta": ""
-        },
-        {
-          "_inherit": "features3",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features6",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "features6-41",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "desctop",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#6b6a6a"
-            }
-          },
-          "title1": "Professional Graphic Artist",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "As a graphic artist, I hope to learn and be certified on all of the Adobe Suite products. Every year as I learn more and more about graphic arts, I feel self assured that I am on my way to becoming a professional graphic artist!",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "change-style",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#6c6c6c"
-            }
-          },
-          "title2": "Art Work",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Being an artist, I have many goals and aspirations towards my art work. I &nbsp;hope that I can get rocognized for my work and have my art work be put in museums for many people to see. Becoming a well known artist that people admire and use for inspiration, is somebody I want to be in the near future.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "website-theme",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#737170"
-            }
-          },
-          "title3": "Pixar Animation Studios&nbsp;",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Having a full time job at Pixar Studios has been one of my goals since a little girl. Making Pixar films/movies would be my dream goal that i would hope to achievein the future. I would hope to be the animator or character designer when working at Pixar Animation studios.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "briefcase",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#706f6f"
-            }
-          },
-          "title4": "World Traveler",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Traveling around the world, taking gorgeous pictures, and then recreating them digitally or hand painted is another goal I would also want to achieve in the near future.&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#efefef",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-42",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          },
-          "testimonial": [
-            {
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Abanoub S.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Suffian A.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Jhollman C.",
-              "authorBio": "User"
-            }
-          ],
-          "_anchor": "testimonials1-43",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "count": 3,
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true
-          },
-          "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
-            }
-          },
-          "_anchor": "contacts1-44",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -999,8 +543,9 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-128x128-1.png",
-              "width": 128,
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
               "active": true,
               "link": "",
               "alt": "",
@@ -1008,34 +553,78 @@
               "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-45",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#1d1c1c",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
           },
-          "text": "Copyright (c) 2017 Nicole Baster"
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
         }
       ]
     },
@@ -1282,7 +871,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW ME!",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a>    "
         },
         {
           "_tags": [
@@ -1348,7 +937,7 @@
               "color": "#cccccc"
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
           "media3": {
             "iconFont": {
               "active": true,
@@ -1404,7 +993,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#1d1c1c",
+            "bgColor": "#181818",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1596,7 +1185,7 @@
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "text": "<p>All of our dreams can come true, if we have the courage to pursue them.</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;~ Walt Disney</p>"
+          "text": "<p>\"All of our dreams can come true, if we have the courage to pursue them.\"</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;~ Walt Disney</p>"
         },
         {
           "_styles": {
@@ -1956,7 +1545,7 @@
             "showSubtitle": true
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+          "subtitle": ""
         },
         {
           "_tags": [
@@ -1965,7 +1554,7 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#000000"
             },
             "SMALL": {
               "color": "#585656"
@@ -1977,7 +1566,7 @@
           },
           "_anchor": "form1-57",
           "_params": {
-            "labelsColor": "#232323",
+            "labelsColor": "#000000",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -2026,20 +1615,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-22",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2047,8 +1636,9 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-128x128-1.png",
-              "width": 128,
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
               "active": true,
               "link": "",
               "alt": "",
@@ -2056,14 +1646,78 @@
               "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
         },
         {
           "_tags": [
@@ -2077,7 +1731,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#1d1c1c",
+            "bgColor": "#181818",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2186,20 +1840,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-24",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2207,39 +1861,108 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-25",
+          "_anchor": "footer1-35",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2b2929",
+            "bgColor": "#181818",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -2438,20 +2161,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-27",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2459,19 +2182,108 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#181818",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -2620,7 +2432,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/brochure-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/brochure-2000x2666.jpg",
-                "caption": "Fair Expo Brochure Side 1: 1st Place",
+                "caption": "Youth Fair Brochure Side 1: 1st Place",
                 "active": false
               },
               {
@@ -2630,7 +2442,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/brochure-2-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/brochure-2-2000x2666.jpg",
-                "caption": "Fair Expo Brochure Side 2: 1st Place",
+                "caption": "Youth Fair Brochure Side 2: 1st Place",
                 "active": false
               }
             ],
@@ -2739,20 +2551,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-29",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2760,8 +2572,9 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-128x128-3.png",
-              "width": 128,
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
               "active": true,
               "link": "",
               "alt": "",
@@ -2769,14 +2582,78 @@
               "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
         },
         {
           "_tags": [
@@ -2790,7 +2667,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2b2929",
+            "bgColor": "#181818",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3052,20 +2929,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-2b",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3073,8 +2950,9 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-128x128.png",
-              "width": 128,
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
               "active": true,
               "link": "",
               "alt": "",
@@ -3082,14 +2960,78 @@
               "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
         },
         {
           "_tags": [
@@ -3103,7 +3045,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2b2929",
+            "bgColor": "#181818",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3365,20 +3307,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-2d",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3386,19 +3328,88 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
         },
         {
           "_tags": [
@@ -3412,7 +3423,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2b2929",
+            "bgColor": "#181818",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3463,7 +3474,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/adobe-dreamweaver-cs6-icon-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -3578,6 +3593,134 @@
           "allItem": "All"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "LI": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-5c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#292929",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#181818",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -3665,69 +3808,6 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\" target=\"_blank\">Introduction Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\" target=\"_blank\">Introduction Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1y\" target=\"_blank\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Microsoft Word\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DisscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nicolebaster.github.io/Document/Discuss IT Topic 6 (1).pdf\">DisscussIT Topic 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Microsoft Powerpoint\" target=\"_blank\">Microsoft Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop\" aria-expanded=\"false\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator\" aria-expanded=\"false\" target=\"_blank\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere\" aria-expanded=\"false\" target=\"_blank\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D - 3D Design\" aria-expanded=\"false\" target=\"_blank\">123D - 3D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Photoshop\" target=\"_blank\">Industry Certified Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Illustrator\" target=\"_blank\">Industry Certified Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Premiere\">Industry Certified Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Audition\" target=\"_blank\">Industry Certified Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Dreamweaver\" target=\"_blank\">Industry Certified Adobe DreamWeaver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Transcript\" target=\"_blank\">Transcript</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Photography\" aria-expanded=\"false\" target=\"_blank\">PHOTOGRAPHY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp; &nbsp; &nbsp; &nbsp;WORK &nbsp;&nbsp;<br>EXPERIENCE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mr. Pate\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Honors Teacher\" target=\"_blank\">Honors Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Community Member\" target=\"_blank\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Family Friend\" target=\"_blank\">Family Friend</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"RESUME\" target=\"_blank\">RESUME</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
-            }
-          },
-          "_anchor": "contacts1-2f",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-128x128.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-35",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2b2929",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -3829,20 +3909,78 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-5p",
+          "_params": {
+            "imageSize": "35",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/123d-design-logo-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "_anchor": "contacts1-2h",
+          "title": "123D - 3D Design",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "LI": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3850,19 +3988,108 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#181818",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -3964,20 +4191,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-2j",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3985,19 +4212,108 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#181818",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -4099,20 +4415,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-2l",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4120,19 +4436,108 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#181818",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -4234,20 +4639,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-2n",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4255,19 +4660,108 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#181818",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -4369,20 +4863,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-2p",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4390,19 +4884,108 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#181818",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -4504,20 +5087,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-2r",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4525,19 +5108,108 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#181818",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -4639,20 +5311,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-2t",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4660,19 +5332,108 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#181818",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -4774,20 +5535,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-2v",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4795,19 +5556,108 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#181818",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -4909,20 +5759,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-2x",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4930,19 +5780,108 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#181818",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -5044,20 +5983,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-2z",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -5065,19 +6004,108 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#181818",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -5179,20 +6207,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-31",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -5200,19 +6228,108 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#181818",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Nicole Baster"
         }
       ]
     },
@@ -5309,6 +6426,49 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\" target=\"_blank\">Introduction Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-2\" target=\"_blank\">Introduction Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1y\" target=\"_blank\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Microsoft Word\" data-toggle=\"dropdown-submenu\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DisscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nicolebaster.github.io/Document/Discuss IT Topic 6 (1).pdf\">DisscussIT Topic 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Microsoft Powerpoint\" target=\"_blank\">Microsoft Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop\" aria-expanded=\"false\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator\" aria-expanded=\"false\" target=\"_blank\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere\" aria-expanded=\"false\" target=\"_blank\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D - 3D Design\" aria-expanded=\"false\" target=\"_blank\">123D - 3D Design</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Photoshop\" target=\"_blank\">Industry Certified Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Illustrator\" target=\"_blank\">Industry Certified Adobe illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Premiere\">Industry Certified Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Audition\" target=\"_blank\">Industry Certified Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Adobe Dreamweaver\" target=\"_blank\">Industry Certified Adobe DreamWeaver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Transcript\" target=\"_blank\">Transcript</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Photography\" aria-expanded=\"false\" target=\"_blank\">PHOTOGRAPHY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp; &nbsp; &nbsp; &nbsp;WORK &nbsp;&nbsp;<br>EXPERIENCE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mr. Pate\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Honors Teacher\" target=\"_blank\">Honors Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Community Member\" target=\"_blank\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Family Friend\" target=\"_blank\">Family Friend</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"RESUME\" target=\"_blank\">RESUME</a></li>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "font-size": "19px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5o",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1474925218713-9e8a1d89c7b4-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "My Photography",
+          "text": "<p>\" A camera is a save button for the mind's eye.\"</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"line-height: 1.5;\">&nbsp; &nbsp; - Roger Kingston</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
@@ -5323,19 +6483,19 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/trees-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/trees-2000x2666.jpg",
-                "caption": "Trees in the Morning Light<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/sun-peeping-through-tree-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sun-peeping-through-tree-2000x2666.jpg",
+                "caption": "Sun Peeping Through a Tree<br>",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/beautiful-landscaping-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/beautiful-landscaping-2000x2666.jpg",
-                "caption": "Beautiful Landscaping<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/the-beach-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/the-beach-2000x2666.jpg",
+                "caption": "The Beach",
                 "active": false
               },
               {
@@ -5359,13 +6519,53 @@
                 "active": false
               },
               {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beautiful-landscaping-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautiful-landscaping-2000x2666.jpg",
+                "caption": "Beautiful Landscaping<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/deer-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/deer-2000x2666.jpg",
+                "caption": "Deer Scenery",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/art-table-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/art-table-2000x2666.jpg",
+                "caption": "Color Samples on Palet Paper",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/miami-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/miami-2000x2666.jpg",
+                "caption": "Downtown Miami<br>",
+                "active": true
+              },
+              {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ship-docking-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ship-docking-2000x2666.jpg",
-                "caption": "Ship Docking in Castaway Cay ( Disney's Private Island )",
+                "caption": "Ship Docking in Castaway Cay<br> ( Disney's Private Island )",
                 "active": false
               },
               {
@@ -5375,18 +6575,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/palm-trees-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/palm-trees-2000x2666.jpg",
-                "caption": "Palm Tree Scene in Castaway Cay ( Disney's Private Island )",
+                "caption": "Palm Trees Scenery in Castaway Cay ( Disney's Private Island )",
                 "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here",
-                "active": true
               }
             ],
             "spacing": "1",
@@ -5405,20 +6595,20 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts3",
           "_styles": {
-            "STRONG": {
-              "color": "#6fc1b2"
+            "LI": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "contacts1-5h",
+          "_anchor": "contacts3-5c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -5426,8 +6616,9 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-128x128-1.png",
-              "width": 128,
+              "src": "@PROJECT_PATH@/assets/images/paintbrush-logo-265x265-2.png",
+              "class": "card-img-top",
+              "width": 265,
               "active": true,
               "link": "",
               "alt": "",
@@ -5435,14 +6626,78 @@
               "linkInNewWindow": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
-          "text2": "<strong>Contacts</strong><br>\nEmail: nbaster@miamiartsstudio.com<br>\nPhone: (786) - 630 - 0888",
-          "text3": "<strong>Links</strong><br>mas.dadeschools.net<br><br><br><br>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "786 - 630 - 088",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "8247 SW 148 AVE 33193 Miami Florida",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Categories",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li>Photography</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li>Work Experience</li><li>RESUME&nbsp;</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nbaster@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me&nbsp;</a>"
         },
         {
           "_tags": [
