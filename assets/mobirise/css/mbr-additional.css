@@ -671,13 +671,17 @@ h6,
 #header1-4s .mbr-section-lead {
   text-align: center;
   font-family: 'Oswald', sans-serif;
+  color: #ffffff;
 }
-#content8-5r .mbr-section-title,
-#content8-5r p {
+#header1-4s .mbr-section-title {
+  color: #ffffff;
+}
+#content8-5t .mbr-section-title,
+#content8-5t p {
   text-align: right;
   color: #fff;
 }
-#content8-5r .mbr-section-title {
+#content8-5t .mbr-section-title {
   text-align: center;
 }
 #header3-55 .mbr-section-title,
