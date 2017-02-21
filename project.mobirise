@@ -777,7 +777,7 @@
           "_name": "content8",
           "_anchor": "content8-5r",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
@@ -791,7 +791,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000",
             "showTitle": true,
             "showCaption": true
