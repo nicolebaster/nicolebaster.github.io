@@ -769,6 +769,9 @@
             ".mbr-section-title, p": {
               "text-align": "right",
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
             }
           },
           "_tags": [
@@ -791,7 +794,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
             "showTitle": true,
             "showCaption": true
