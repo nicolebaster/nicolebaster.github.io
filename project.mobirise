@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 211,
+    "uniqCompNum": 212,
     "versionPublish": "3.10.7",
     "path": "file:///F:",
     "screenshot": "screenshot.png"
@@ -773,13 +773,16 @@
             ".mbr-section-title, p": {
               "text-align": "right",
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "content8",
-          "_anchor": "content8-5u",
+          "_anchor": "content8-5v",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -791,11 +794,11 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/BLjk3j5XkgY?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/R277AUabZXs?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000",
             "showTitle": true,
             "showCaption": false
