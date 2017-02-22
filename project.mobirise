@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -795,7 +795,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.9",
             "overlayColor": "#000",
             "showTitle": true,
             "showCaption": false
@@ -1454,7 +1454,7 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "0",
             "paddingBottom": 1,
             "images": [
               {
@@ -1482,10 +1482,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/paris-2000x1500-1-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/paris-2000x1500-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paris-2000x1500-2-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/paris-2000x1500-2.jpg",
                 "caption": "Paris Cafe",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -1495,7 +1495,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/woman-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/woman-2000x1500.jpg",
                 "caption": "Portrait of a Women",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
