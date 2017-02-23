@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1289,7 +1289,7 @@
           "_name": "header3",
           "_anchor": "header3-1y",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgColor": "#efefef",
             "showMeta": true
@@ -1439,7 +1439,7 @@
           "_name": "header3",
           "_anchor": "header3-5f",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#efefef",
             "showMeta": true
@@ -1462,8 +1462,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fish-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fish-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fish-2000x1500-1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fish-2000x1500-1.jpg",
                 "caption": "Under Water Scene&nbsp;",
                 "active": false
               },
@@ -1472,28 +1472,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/flowers-2000x1500-1-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/flowers-2000x1500-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-2000x1500-2-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-2000x1500-2.jpg",
                 "caption": "Tulips",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/paris-2000x1500-2-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/paris-2000x1500-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paris-2000x1500-3-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/paris-2000x1500-3.jpg",
                 "caption": "Paris Cafe",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/woman-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/woman-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/woman-2000x1500-3-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/woman-2000x1500-3.jpg",
                 "caption": "Portrait of a Women",
                 "active": false
               }
@@ -1567,7 +1567,7 @@
           ],
           "_anchor": "testimonials1-a",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "count": 3,
             "showImages": true,
@@ -1621,7 +1621,7 @@
             "showSubTitle": true
           },
           "title": "CONTACT FORM",
-          "subtitle": "Contact me for buisness inquiries and any questions",
+          "subtitle": "Contact me for buisness inquiries and any questions.",
           "form": {
             "action": "nbaster@miamiartsstudio.com",
             "alerts": {
@@ -6593,10 +6593,30 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lamppost-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lamppost-2000x2666.jpg",
+                "caption": "Lamppost",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/miami-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/miami-2000x2666.jpg",
                 "caption": "Downtown Miami<br>",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gloomy-day-2000x2666-3-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gloomy-day-2000x2666-3.jpg",
+                "caption": "Gloomy Day<br>",
+                "active": false
               },
               {
                 "tags": "Creative",
