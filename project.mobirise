@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "introduction.html",
+    "currentPage": "Adobe Photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1985,7 +1985,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/the-flash-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/the-flash-2000x2666.jpg",
                 "caption": "Recreation of the Flash",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Beautiful",
@@ -2005,6 +2005,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/brochure-2-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/brochure-2-2000x2666.jpg",
                 "caption": "Youth Fair Brochure Side 2: 1st Place",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-1-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-1-2000x2666.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 1",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-1-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-1-2000x2666.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 2",
                 "active": false
               }
             ],
@@ -3015,7 +3035,7 @@
           },
           "_anchor": "msg-box5-3i",
           "_params": {
-            "imageSize": "35",
+            "imageSize": "36",
             "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": true,
