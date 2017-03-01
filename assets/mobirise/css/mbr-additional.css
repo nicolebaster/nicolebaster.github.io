@@ -2012,6 +2012,10 @@ h6,
 #header1-4s .mbr-section-title {
   color: #ffffff;
 }
+#header3-5y .mbr-section-title,
+#header3-5y .mbr-section-subtitle {
+  text-align: center;
+}
 #content8-5x .mbr-section-title,
 #content8-5x p {
   text-align: right;

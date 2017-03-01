@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Adobe Photoshop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,9 +21,9 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 214,
-    "versionPublish": "3.11.1",
-    "path": "@PROJECT_PATH@",
+    "uniqCompNum": 216,
+    "versionPublish": "3.10.7",
+    "path": "file:///F:",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -1184,7 +1184,7 @@
           },
           "_anchor": "contacts3-5c",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -2012,8 +2012,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-1-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-1-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-1-2000x2666-2-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-1-2000x2666-2.jpg",
                 "caption": "Recreation of the Girl w/ the Pearl Earing 1",
                 "active": true
               },
@@ -2022,8 +2022,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-1-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-1-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-21-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-21-2000x2666.jpg",
                 "caption": "Recreation of the Girl w/ the Pearl Earing 2",
                 "active": false
               }
@@ -2141,7 +2141,7 @@
           },
           "_anchor": "contacts3-5c",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -6480,6 +6480,26 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"introduction\" data-toolbar=\"-mbrBtnMove\">Enter</a> "
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5y",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
           "_inherit": "content5",
           "_styles": {
             ".mbr-section-title, p": {
@@ -6611,12 +6631,12 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-5e",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#353535",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -6637,7 +6657,7 @@
           },
           "_anchor": "contacts3-5c",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
