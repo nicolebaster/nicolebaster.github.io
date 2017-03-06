@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -132,6 +132,18 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-size": "48px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "18px"
+            }
+          },
           "_anchor": "msg-box5-6e",
           "_params": {
             "imageSize": "42",
@@ -178,19 +190,7 @@
           },
           "title": "ALL ABOUT NICOLE BASTER",
           "text": "&nbsp; &nbsp; Nicole Baster is  a skilled artist who finds joy in ALL of her art work.  When Nicole was a litle girl, she always found the concept of art interesting.  She would make art work for her parents, take pictures of nature, create characters, etc. When Nicole was about six years old, she joined an art studio called Priscilla and Tiffany Art Corp. As she began  spending more and more years at the studio, she began realizing that this was what she wanted to do from now on. Now as a thirteen year old, she has produced many eye catching pieces of art work. &nbsp; &nbsp; &nbsp;",
-          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"introduction.html#content1-1w\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-size": "48px"
-            },
-            "P": {
-              "color": "#ffffff",
-              "text-align": "left",
-              "font-size": "18px"
-            }
-          }
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"introduction.html#content1-1w\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
         },
         {
           "_tags": [
@@ -1486,6 +1486,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-4-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-4-2000x2666.jpg",
                 "caption": "Recreation of the Girl w/ the Pearl Earing 4<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-5-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-5-2000x2666.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 5<br>",
                 "active": true
               }
             ],
