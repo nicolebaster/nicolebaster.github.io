@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -135,8 +135,8 @@
           "_anchor": "msg-box5-6e",
           "_params": {
             "imageSize": "42",
-            "paddingTop": "5",
-            "paddingBottom": "4",
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1460398495418-62c9b5d79fbf-2000x1335.jpg",
