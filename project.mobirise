@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 232,
+    "uniqCompNum": 233,
     "versionPublish": "3.10.7",
     "path": "file:///F:",
     "screenshot": "screenshot.png"
@@ -1496,6 +1496,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-5-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-5-2000x2666.jpg",
                 "caption": "Recreation of the Girl w/ the Pearl Earing 5<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-6-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-6-2000x2666.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 6<br>",
                 "active": true
               }
             ],
