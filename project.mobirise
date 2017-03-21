@@ -1455,7 +1455,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-1-2000x2666-3-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-1-2000x2666-3.jpg",
-                "caption": "Recreation of the Girl w/ the Pearl Earing 1",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 1 (Beginning)",
                 "active": false
               },
               {
@@ -1506,6 +1506,116 @@
                 "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-6-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-6-2000x2666.jpg",
                 "caption": "Recreation of the Girl w/ the Pearl Earing 6<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-7-uploaded-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-7-uploaded-2000x2666.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 7<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-8-uploaded-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-8-uploaded-2000x2666.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 8<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-9-uploaded-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-9-uploaded-2000x2666.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 9<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-10-uploaded-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-10-uploaded-2000x2666.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 10<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-11-uploaded-2000x2666-1-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-11-uploaded-2000x2666-1.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 11<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-12-uploaded-2000x2666-1-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-12-uploaded-2000x2666-1.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 12<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-13-uploaded-2000x2666-1-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-13-uploaded-2000x2666-1.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 13<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-14-uploaded-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-14-uploaded-2000x2666.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 14<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-15-uploaded-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-15-uploaded-2000x2666.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 15<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-16-uploaded-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-16-uploaded-2000x2666.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 16<br>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-17-uploaded-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/recreation-of-the-girl-with-the-pearl-earing-17-uploaded-2000x2666.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing 17&nbsp;(Final Outcome)<br>",
                 "active": true
               }
             ],
