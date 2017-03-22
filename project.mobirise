@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.7",
     "uniqCompNum": 233,
-    "versionPublish": "3.10.7",
+    "versionPublish": "3.11.1",
     "path": "file:///F:",
     "screenshot": "screenshot.png"
   },
@@ -6467,10 +6467,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logos-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/logos-2000x1500.jpg",
-                "caption": "Recreation of Avengers Logos",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/girl-with-the-pearl-earing-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/girl-with-the-pearl-earing-2000x1500.jpg",
+                "caption": "Recreation of the Girl w/ the Pearl Earing",
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -6490,7 +6490,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/greece-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/greece-2000x1500.jpg",
                 "caption": "Adding Filters to Images",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
