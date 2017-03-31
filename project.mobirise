@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.7",
     "uniqCompNum": 240,
-    "versionPublish": "3.10.7",
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -6388,7 +6388,7 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-6m",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": false,
@@ -6398,7 +6398,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/1kTdjaf63tM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/P-fSjfGtsSE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -6410,7 +6410,7 @@
           },
           "title": "YOUTUBE INTRODUCTION VIDEO",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=1kTdjaf63tM\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=P-fSjfGtsSE\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>"
         },
         {
           "_styles": {
