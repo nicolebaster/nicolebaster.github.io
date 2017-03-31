@@ -1849,6 +1849,14 @@ h6,
 #header1-4s .mbr-section-title {
   color: #ffffff;
 }
+#header3-6n .mbr-section-title,
+#header3-6n .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box8-6m .mbr-section-title,
+#msg-box8-6m p {
+  color: #fff;
+}
 #header3-5y .mbr-section-title,
 #header3-5y .mbr-section-subtitle {
   text-align: center;

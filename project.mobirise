@@ -21,9 +21,9 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 237,
-    "versionPublish": "3.11.1",
-    "path": "file:///F:",
+    "uniqCompNum": 240,
+    "versionPublish": "3.10.7",
+    "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -6002,17 +6002,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/miami-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/miami-2000x2666.jpg",
                 "caption": "Downtown Miami<br>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gloomy-day-2000x2666-3-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gloomy-day-2000x2666-3.jpg",
-                "caption": "Gloomy Day<br>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -6082,7 +6072,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/hammock-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/hammock-2000x2666.jpg",
                 "caption": "Relaxing Under a Tree",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
@@ -6365,6 +6355,62 @@
           "title": "- Nicole Baster -",
           "text": "Welcome... here you will see my artwork, graphic designing skills, work experience, etc.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"introduction\" data-toolbar=\"-mbrBtnMove\">Enter</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6n",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-6m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/1kTdjaf63tM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "YOUTUBE INTRODUCTION VIDEO",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=1kTdjaf63tM\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>"
         },
         {
           "_styles": {
