@@ -614,6 +614,12 @@
           "_styles": {
             "LI": {
               "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#919191"
+            },
+            "STRONG": {
+              "color": "#919191"
             }
           },
           "_anchor": "contacts3-5c",
@@ -2446,6 +2452,16 @@
             "paddingBottom": 1,
             "images": [
               {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=fcAqEAJnQtU",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-21-11-03-35.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "My A Thousand Million Reasons - Rough Draft<br>",
+                "active": true
+              },
+              {
                 "tags": "Awesome",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=4r1MiNO5mKw",
@@ -2463,16 +2479,6 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
                 "caption": "An Introduction Video to Nicole Baster",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -2516,14 +2522,14 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Creative",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
@@ -2546,6 +2552,12 @@
           "_styles": {
             "LI": {
               "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#919191"
+            },
+            "STRONG": {
+              "color": "#919191"
             }
           },
           "_anchor": "contacts3-5c",
@@ -6584,6 +6596,12 @@
           "_styles": {
             "LI": {
               "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#919191"
+            },
+            "STRONG": {
+              "color": "#919191"
             }
           },
           "_anchor": "contacts3-5c",
