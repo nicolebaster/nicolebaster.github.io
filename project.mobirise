@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.7",
     "uniqCompNum": 257,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.12.1",
     "path": "file:///F:",
     "screenshot": "screenshot.png"
   },
@@ -2454,8 +2455,8 @@
               {
                 "tags": "Animated",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fcAqEAJnQtU",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-21-11-03-35.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=uD-YkvVXdZs&t=28s",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-23-22-23-58.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "My A Thousand Million Reasons - Rough Draft<br>",
@@ -6578,12 +6579,12 @@
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1069.jpg",
             "bgColor": "#292929",
             "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000"
           },
           "text": "FOLLOW ME!",
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCYc1ocogEQvKa_e08034a9A\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
