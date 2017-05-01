@@ -17,13 +17,12 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
-        "isRtl": false
+        "isScrollToTopButton": false
       }
     },
     "versionFirst": "3.10.7",
     "uniqCompNum": 257,
-    "versionPublish": "3.12.1",
+    "versionPublish": "3.11.1",
     "path": "file:///F:",
     "screenshot": "screenshot.png"
   },
@@ -362,9 +361,9 @@
               "color": "#737170"
             }
           },
-          "title3": "Pixar Animation Studios&nbsp;",
+          "title3": "Walt Disney Animtion Studios",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Having a full time job at Pixar Studios has been one of my goals since a little girl. Making Pixar films/movies would be my dream goal that i would hope to achieve in the future. I would hope to be the animator or character designer when working at Pixar Animation studios.",
+          "caption3": "Having a full time job at Walt Disney Animation Studios has been one of my goals since a little girl. Making Disney films/movies would be my dream goal that i would hope to achieve in the future. I would hope to be the animator or character designer when working at Walt Disney Animation studios.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -6457,7 +6456,7 @@
           },
           "title": "A LITTLE FILM ABOUT ME",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=P-fSjfGtsSE\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=uD-YkvVXdZs\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE</a>"
         },
         {
           "_styles": {
@@ -6472,7 +6471,7 @@
           "_anchor": "header3-5y",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef",
             "showMeta": true
           },
