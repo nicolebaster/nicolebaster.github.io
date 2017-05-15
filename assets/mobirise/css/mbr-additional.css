@@ -2088,6 +2088,20 @@ h6,
 #ext_menu-6t .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box8-7a .mbr-section-title,
+#msg-box8-7a p {
+  color: #fff;
+}
+#msg-box8-7a .lead {
+  color: #ffffff;
+}
+#msg-box8-7a .lead P {
+  text-align: center;
+}
+#header3-7c .mbr-section-title,
+#header3-7c .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts3-6u LI {
   color: #ffffff;
 }
