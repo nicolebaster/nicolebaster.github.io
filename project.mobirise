@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Adobe Premiere.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 265,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 266,
+    "versionPublish": "3.12.1",
     "path": "file:///F:",
     "screenshot": "screenshot.png"
   },
@@ -292,12 +293,15 @@
           "_styles": {
             "P": {
               "text-align": "left"
+            },
+            "H4": {
+              "text-align": "center"
             }
           },
-          "_anchor": "features6-1q",
+          "_anchor": "features6-7d",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -310,7 +314,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "4",
+            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -321,17 +325,17 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "desctop",
+              "name": "desktop",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#6b6a6a"
+              "color": "#757575"
             }
           },
           "title1": "Professional Graphic Artist",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "As a graphic artist, I hope to learn and be certified on all of the Adobe Suite products. Every year as I learn more and more about graphic arts, I feel self assured that I am on my way to becoming a professional graphic artist!",
+          "caption1": "As a graphic artist, I hope to learn and be cerified on all of the Adobe Suite products. Every year as I learn more and more about graphic arts, I feel self assured that I am on my way to becoming a proffessional graphic artist!",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -342,12 +346,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#6c6c6c"
+              "color": "#757575"
             }
           },
           "title2": "Art Work",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Being an artist, I have many goals and aspirations towards my art work. I &nbsp;hope that I can get rocognized for my work and have my art work be put in museums for many people to see. Becoming a well known artist that people admire and use for inspiration, is somebody I want to be in the near future.",
+          "caption2": "Being an artist, I have many goals and aspirations towards my art work. I hope that I can get my art work in many famous museums for many people to acknowledge and see. Becoming a well known artist that people admire and use for inspiration &nbsp;is somebody I definitely want to be.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -358,12 +362,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#737170"
+              "color": "#757575"
             }
           },
           "title3": "Walt Disney Animation Studios",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Having a full time job at Walt Disney Animation Studios has been one of my goals since a little girl. Making Disney films/movies would be my dream goal that i would hope to achieve in the future. I would hope to be the animator or character designer when working at Walt Disney Animation studios.",
+          "caption3": "Having a full time job at Walt Disney Animation Studios has been one of my <b>biggest </b>goals since a little girl. Making Disney movies/films would be my dream goal that I would hope to achieve in the near future. I would hope to be the lead animator or character designer when woring at Walt Disney Animation Studios.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -374,12 +378,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#706f6f"
+              "color": "#757575"
             }
           },
           "title4": "World Traveler",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Traveling around the world, taking gorgeous pictures, and then recreating them digitally or hand painted is another goal I would also want to achieve in the near future.&nbsp;",
+          "caption4": "Traveling around the world, taking stunning pictures, and then recreating them digitally or hand painted is another goal I would also want to achieve in the future.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1149,7 +1153,7 @@
             "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
@@ -1366,7 +1370,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#6b6868",
+            "bgColor": "#818181",
             "showMeta": true
           },
           "title": "",
@@ -1641,7 +1645,7 @@
             "spacing": "1",
             "showText": true,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
@@ -2036,7 +2040,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#6b6868",
+            "bgColor": "#818181",
             "showMeta": true
           },
           "title": "",
@@ -2129,7 +2133,7 @@
             "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
@@ -2435,7 +2439,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#6b6868",
+            "bgColor": "#818181",
             "showMeta": true
           },
           "title": "",
@@ -2454,12 +2458,12 @@
               {
                 "tags": "Animated",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=5i0X6oErgFM&t=16s",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-15-11-21-18.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=Rzjw9yhivYY&t=7s",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-16-19-36-41.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "\"The One\" Rough Draft<br>",
-                "active": false
+                "caption": "\"The One\" Final<br>",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -2489,13 +2493,13 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
                 "caption": "An Introduction Video to Nicole Baster",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
             "showText": true,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#efefef",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -5841,7 +5845,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#6b6868",
+            "bgColor": "#818181",
             "showMeta": true
           },
           "title": "",
@@ -6111,7 +6115,7 @@
             "spacing": "1",
             "showText": true,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
@@ -7312,7 +7316,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#5b5b5b",
+            "bgColor": "#818181",
             "showMeta": true
           },
           "title": "",
@@ -7405,7 +7409,7 @@
             "spacing": 1,
             "showText": true,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#efefef",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
