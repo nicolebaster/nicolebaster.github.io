@@ -692,7 +692,7 @@
           },
           "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
           "title1": "Categories",
-          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Gallery</span></li><li>Work Experience</li><li>RESUME</li><p></p>",
+          "text5": "<p></p><li>Introduction</li><li><span style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</span></li><li>Credentials</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Gallery</span></li><li>Work Experience</li><li>RESUME</li><p></p>",
           "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
           "form": {
             "title": "MESSAGE",
@@ -2458,8 +2458,8 @@
               {
                 "tags": "Animated",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=Rzjw9yhivYY&t=7s",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-16-19-36-41.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=eLCJkuJ1kf0&t=34s",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-17-19-36-10.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
                 "caption": "\"The One\" Final<br>",
@@ -6664,7 +6664,7 @@
           },
           "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
           "title1": "Categories",
-          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Gallery</span></li><li>Work Experience</li><li>RESUME</li><p></p>",
+          "text5": "<p></p><li>Introduction</li><li><span style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</span></li><li>Credentials</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Gallery</span></li><li>Work Experience</li><li>RESUME</li><p></p>",
           "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
           "form": {
             "title": "MESSAGE",
