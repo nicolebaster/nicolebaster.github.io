@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -17,13 +17,12 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
-        "isRtl": false
+        "isScrollToTopButton": false
       }
     },
     "versionFirst": "3.10.7",
     "uniqCompNum": 266,
-    "versionPublish": "3.12.1",
+    "versionPublish": "3.11.1",
     "path": "file:///F:",
     "screenshot": "screenshot.png"
   },
@@ -454,7 +453,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fish-2000x1500-1-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/fish-2000x1500-1.jpg",
-                "caption": "Under Water Scene",
+                "caption": "Under the Sea",
                 "active": false
               },
               {
@@ -474,7 +473,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/paris-2000x1500-3-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/paris-2000x1500-3.jpg",
-                "caption": "Paris Cafe",
+                "caption": "Cafe of Love",
                 "active": false
               },
               {
@@ -484,7 +483,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/woman-2000x1500-3-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/woman-2000x1500-3.jpg",
-                "caption": "Portrait of a Women",
+                "caption": "Lady in Red",
                 "active": true
               }
             ],
@@ -5868,7 +5867,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sun-peeping-through-tree-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sun-peeping-through-tree-2000x2666.jpg",
-                "caption": "Sun Peeping Through a Tree<br>",
+                "caption": "Rays of Beauty",
                 "active": false
               },
               {
@@ -5878,7 +5877,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/the-beach-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/the-beach-2000x2666.jpg",
-                "caption": "The Beach",
+                "caption": "Beach Feet",
                 "active": false
               },
               {
@@ -5918,7 +5917,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/deer-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/deer-2000x2666.jpg",
-                "caption": "Deer Scenery",
+                "caption": "Dear in the Wild",
                 "active": false
               },
               {
@@ -5956,8 +5955,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/flower-in-the-sunlight-2-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/flower-in-the-sunlight-2-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flower-in-the-sunlight-3-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flower-in-the-sunlight-3-2000x2666.jpg",
                 "caption": "Sun Shining on a Flower #2",
                 "active": false
               },
@@ -5966,10 +5965,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/flower-in-the-sunlight-3-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/flower-in-the-sunlight-3-2000x2666.jpg",
-                "caption": "Sun Shining on a Flower #3",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/flower-in-the-sunlight-2-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flower-in-the-sunlight-2-2000x2666.jpg",
+                "caption": "Sunfall",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wonderlust-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wonderlust-2000x2666.jpg",
+                "caption": "Wonderlust",
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -6038,7 +6047,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/alligator-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/alligator-2000x2666.jpg",
-                "caption": "Alligator",
+                "caption": "EYE See You",
                 "active": false
               },
               {
@@ -6058,7 +6067,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hand-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/hand-2000x2666.jpg",
-                "caption": "Hand on a Rail at the Beach",
+                "caption": "Hand by the Beach",
                 "active": false
               },
               {
@@ -6078,7 +6087,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/motorcycles-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/motorcycles-2000x2666.jpg",
-                "caption": "Motorcycles",
+                "caption": "\"Vroom Vroom\"",
                 "active": false
               },
               {
@@ -6088,7 +6097,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rooster-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/rooster-2000x2666.jpg",
-                "caption": "Rooster",
+                "caption": "Morning Roost",
                 "active": false
               },
               {
@@ -6098,7 +6107,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hammock-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/hammock-2000x2666.jpg",
-                "caption": "Relaxing Under a Tree",
+                "caption": "Relaxation",
                 "active": false
               },
               {
@@ -6106,10 +6115,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/miami-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/miami-2000x2666.jpg",
-                "caption": "Downtown Miami<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/cali-palms-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cali-palms-2000x2666.jpg",
+                "caption": "Cali Palms",
                 "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hawaiian-hibiscus-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hawaiian-hibiscus-2000x2666.jpg",
+                "caption": "Hawaiian Hibiscus",
+                "active": true
               }
             ],
             "spacing": "1",
@@ -7333,6 +7352,16 @@
             "paddingBottom": 1,
             "images": [
               {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/the-eiffel-tower-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/the-eiffel-tower-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -7340,16 +7369,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/alice-in-wonderland-linoleum-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/alice-in-wonderland-linoleum-2000x1500.jpg",
                 "caption": "Alice in Wonderland Tea Party Scene Linoleum",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "active": false
               },
               {
                 "tags": "Creative",
