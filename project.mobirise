@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 266,
+    "uniqCompNum": 268,
     "versionPublish": "3.11.1",
     "path": "file:///F:",
     "screenshot": "screenshot.png"
@@ -289,17 +289,9 @@
             "Theme"
           ],
           "_name": "features6",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H4": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "features6-7d",
+          "_anchor": "features6-7f",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -325,16 +317,15 @@
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "desktop",
-              "family": "MobiriseIcons",
+              "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#757575"
+              "size": 0
             }
           },
-          "title1": "Professional Graphic Artist",
+          "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "As a graphic artist, I hope to learn and be cerified on all of the Adobe Suite products. Every year as I learn more and more about graphic arts, I feel self assured that I am on my way to becoming a proffessional graphic artist!",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -345,12 +336,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#757575"
+              "color": "#747474"
             }
           },
-          "title2": "Art Work",
+          "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Being an artist, I have many goals and aspirations towards my art work. I hope that I can get my art work in many famous museums for many people to acknowledge and see. Becoming a well known artist that people admire and use for inspiration &nbsp;is somebody I definitely want to be.",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -361,12 +352,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#757575"
+              "color": "#747474"
             }
           },
-          "title3": "Walt Disney Animation Studios",
+          "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Having a full time job at Walt Disney Animation Studios has been one of my <b>biggest </b>goals since a little girl. Making Disney movies/films would be my dream goal that I would hope to achieve in the near future. I would hope to be the lead animator or character designer when woring at Walt Disney Animation Studios.",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -377,12 +368,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#757575"
+              "color": "#747474"
             }
           },
-          "title4": "World Traveler",
+          "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Traveling around the world, taking stunning pictures, and then recreating them digitally or hand painted is another goal I would also want to achieve in the future.",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
