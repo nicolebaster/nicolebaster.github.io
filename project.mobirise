@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -255,9 +255,9 @@
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "text1": "&nbsp; &nbsp; &nbsp;Nicole Baster is  a skilled artist who finds joy in ALL of her art work.  When Nicole was a litle girl, she always found the concept of art interesting.  She would make art work for her parents, take pictures of nature, create characters, etc. When Nicole was about six years old, she joined an art studio called Pricilla and Tiffany Art Corp. As she began  spending more and more years at the studio, she began realizing that this was what she wanted to do from now on . Now as a thirteen year old, she has produced many eye catching pieces of art work.&nbsp;",
-          "text2": "Nicole has done paintings from animals all the way to humans. She has proven to create anything you ask her to whenever and wherever you want. She takes pride in her work and loves what she does. Nicole Baster is currently attending Miami Arts Studio and is in the strand Technology Production. She is learning how to become a professional graphic artist and also learning how to use softwares such as the whole Adobe and Microsoft Suite. When Nicole gets an opportunity to learn more about graphic arts, she takes advantage of it and does the best&nbsp;",
-          "text3": "she can! Nicole is thinking about making a future of her graphic artist skills and working for Pixar Animation Studios. Nicole believes that with her knowledge about art and graphic arts, she will succeed in everything she does. As an artist, she plans to inspire people everywhere she goes. Nicole always puts 100% of effort into her work and is always looking for a great challenge to conquer."
+          "text1": "&nbsp; &nbsp; &nbsp;Nicole Baster is  a skilled artist who finds joy in ALL of her art work.  When Nicole was a little girl, she always found the concept of art interesting.  She would make art work for her parents, take pictures of nature, create characters, etc. When Nicole was about six years old, she joined an art studio called Priscilla and Tiffany Art Corp. As she began  spending more and more years at the studio, she began realizing that this was what she wanted to do from now on . Now as a thirteen year old, she has produced many eye catching pieces of art work.&nbsp;",
+          "text2": "Nicole has done paintings from animals all the way to human studies. She has proven to create anything you ask her to whenever, and wherever you want. She takes pride in her work and loves what she does. Nicole Baster is currently attending Miami Arts Studio and is in the Technology Production program. She is learning how to become a professional graphic artist and also learning how to use softwares such as the whole Adobe and Microsoft Suite. When Nicole gets an opportunity to learn more about graphic arts, she takes advantage of it and does the best&nbsp;",
+          "text3": "she can! Nicole is planning about making a future of her graphic artist skills and working for Walt Disney Animation Studios. Nicole believes that with her knowledge about art and graphic arts, she will succeed in everything she does. As an artist, she plans to inspire people everywhere she goes. Nicole always puts 100% of effort into her work and is always looking for a great challenge to conquer."
         },
         {
           "_styles": {
@@ -281,7 +281,7 @@
             "bgColor": "#cccccc",
             "showMeta": true
           },
-          "title": "GOALS AND ACHIEVEMENTS",
+          "title": "GOALS&nbsp;",
           "meta": ""
         },
         {
@@ -318,15 +318,16 @@
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "desktop",
-              "family": "et-line",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#747474"
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "Professional Graphic Artist&nbsp;",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "As a graphic artist, I hope to be certified on all the Adobe and Microsoft Suite products. Every year as I learn more and more about graphic arts, I feel self assured that I am on my way to becoming a professional graphic artist and hopefully putting them to use when I work for Walt Disney Aniamtion Studios.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -340,9 +341,9 @@
               "color": "#747474"
             }
           },
-          "title2": "Responsive",
+          "title2": "Art Work",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Being an artist, I have many goals and aspirations towards my art work. I hope that someday my art work will be put up in many museums for many people to see (especially the Louvre). Becoming a well known artist that people admire and use for inspiration, is somebody I definitely would want to be.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -356,9 +357,9 @@
               "color": "#747474"
             }
           },
-          "title3": "Web Fonts",
+          "title3": "Walt Disney Animation Studios",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Having a full time job at Walt Disney Animation Studios has been my number one goal and dream since a little girl. Having the opportunity of making Disney animated movies and films that people will enjoy, will definitely fill me up with happiness and contentness. With my own graphic and animating skills, I would love to b the lead animator when working at Walt Disney Animation Studios.&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -372,9 +373,9 @@
               "color": "#747474"
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "World Traveler",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "<p>Traveling around the world, taking gorgeous &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">pictures, and then recreating them digitally or hand painted is another goal I would also want to achieve in the near future.</span></p>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -403,7 +404,12 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {
@@ -683,8 +689,8 @@
           },
           "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
           "title1": "Categories",
-          "text5": "<p></p><li>Introduction</li><li><span style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</span></li><li>Credentials</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Gallery</span></li><li>Work Experience</li><li>RESUME</li><p></p>",
-          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Gallery</span></li><li>Work Experience</li><li>RESUME</li><p></p>",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami, Florida",
           "form": {
             "title": "MESSAGE",
             "action": "nbaster@miamiartsstudio.com",
@@ -6139,7 +6145,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/driving-to-key-west-2000x2666-9-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/driving-to-key-west-2000x2666-9.jpg",
-                "caption": "Driving to Key West",
+                "caption": "Blue Day",
                 "active": false
               },
               {
@@ -6149,7 +6155,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/key-west-beach-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/key-west-beach-2000x2666.jpg",
-                "caption": "Key West Beach",
+                "caption": "Beach life",
                 "active": false
               },
               {
@@ -6680,7 +6686,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/record-display-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/record-display-2000x1500.jpg",
-                "caption": "Record Display ( Celine Dion )",
+                "caption": "Record Display (Celine Dion)",
                 "active": false
               },
               {
@@ -7490,7 +7496,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/the-eiffel-tower-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/the-eiffel-tower-2000x2666.jpg",
-                "caption": "Type caption here",
+                "caption": "The Eiffel Tower",
                 "active": true
               },
               {
@@ -7647,7 +7653,7 @@
           "text4": "<p><a href=\"mailto:support@mobirise.com\">nbaster@miamiartsstudio.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
           "title1": "Categories",
           "text5": "<p></p><li>Introduction</li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">Applications</a></li><li>Credentials</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Refrences</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Gallery</span></li><li>Work Experience</li><li>RESUME</li><p></p>",
-          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami Florida",
+          "text6": "<strong>Contacts</strong><br>Email: nbaster@miamiartsstudio.com<br>Phone: 786 - 630 - 0888<br><br><br><strong>Address</strong><br>8247 SW 148 AVE 33193 Miami, Florida",
           "form": {
             "title": "MESSAGE",
             "action": "nbaster@miamiartsstudio.com",
