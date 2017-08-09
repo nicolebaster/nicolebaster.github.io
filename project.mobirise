@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "photography",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -7804,9 +7804,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/flower-in-the-sunlight-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/flower-in-the-sunlight-2000x2666.jpg",
-                "caption": "Sun Shining on a Flower",
+                "thumb": "@PROJECT_PATH@/assets/images/sun-shining-on-a-flower-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sun-shining-on-a-flower-2000x2666.jpg",
+                "caption": "Sun Shining on a flower&nbsp;",
                 "active": false
               },
               {
@@ -7814,9 +7814,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/flower-in-the-sunlight-3-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/flower-in-the-sunlight-3-2000x2666.jpg",
-                "caption": "Sun Shining on a Flower #2",
+                "thumb": "@PROJECT_PATH@/assets/images/flowery-goodness-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowery-goodness-2000x2666.jpg",
+                "caption": "Flowery Goodness",
                 "active": false
               },
               {
@@ -7907,7 +7907,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/cali-palms-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/cali-palms-2000x2666.jpg",
                 "caption": "Morning Roost",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -7924,8 +7924,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/succlulent-2-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/succlulent-2-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/succulent-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/succulent-2000x2666.jpg",
                 "caption": "Succulent",
                 "active": false
               },
@@ -7934,9 +7934,39 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cali-palms-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cali-palms-2000x2666.jpg",
-                "caption": "Morning Roost",
+                "thumb": "@PROJECT_PATH@/assets/images/lilac-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lilac-2000x2666.jpg",
+                "caption": "Lilac",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fun-in-the-sun-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fun-in-the-sun-2000x2666.jpg",
+                "caption": "Fun in the Sun<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sea-foam-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sea-foam-2000x2666.jpg",
+                "caption": "Sea Foam",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mango-tango-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mango-tango-2000x2666.jpg",
+                "caption": "Ripe Mango",
                 "active": false
               }
             ],
