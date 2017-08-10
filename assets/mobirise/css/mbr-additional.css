@@ -2203,92 +2203,6 @@ h6,
   color: #ffffff;
 }
 
-
-#ext_menu-5g .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-5g .navbar-caption {
-  color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
-}
-#ext_menu-5g .navbar-toggler {
-  color: #000000;
-}
-#ext_menu-5g .close-icon::before,
-#ext_menu-5g .close-icon::after {
-  background-color: #000000;
-}
-#ext_menu-5g .link,
-#ext_menu-5g .dropdown-item {
-  color: #000000;
-}
-#ext_menu-5g .link {
-  font-size: 0.8rem;
-}
-#ext_menu-5g .dropdown-item,
-#ext_menu-5g .nav-dropdown-sm .link {
-  font-size: 0.866rem;
-}
-#ext_menu-5g .link:hover,
-#ext_menu-5g .dropdown-item:hover,
-#ext_menu-5g .link:focus,
-#ext_menu-5g .dropdown-item:focus {
-  color: #c0a375;
-}
-#ext_menu-5g .link[aria-expanded="true"],
-#ext_menu-5g .dropdown-menu {
-  background: #71c29e;
-}
-#ext_menu-5g .nav-dropdown-sm .link:focus,
-#ext_menu-5g .nav-dropdown-sm .link:hover,
-#ext_menu-5g .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-5g .nav-dropdown-sm .dropdown-item:hover {
-  background: #8accaf!important;
-}
-#ext_menu-5g .navbar,
-#ext_menu-5g .nav-dropdown-sm,
-#ext_menu-5g .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-5g .nav-dropdown-sm .dropdown-menu {
-  background: #95d1b6;
-}
-#ext_menu-5g .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#ext_menu-5g .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-5g .bg-color.transparent.opened .link:hover,
-#ext_menu-5g .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#ext_menu-5g .link[aria-expanded="true"],
-#ext_menu-5g .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#msg-box8-5o .mbr-section-title,
-#msg-box8-5o p {
-  color: #fff;
-}
-#msg-box8-5o .lead {
-  color: #ffffff;
-}
-#msg-box8-5o .lead P {
-  text-align: center;
-  font-size: 19px;
-  font-family: 'Raleway', sans-serif;
-}
-#header3-6b .mbr-section-title,
-#header3-6b .mbr-section-subtitle {
-  text-align: center;
-}
-#contacts3-5c LI {
-  color: #ffffff;
-}
-#contacts3-5c P {
-  color: #ffffff;
-}
-
 #ext_menu-6p .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2493,5 +2407,91 @@ h6,
   color: #ffffff;
 }
 #contacts3-81 P {
+  color: #ffffff;
+}
+
+
+#ext_menu-5g .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-5g .navbar-caption {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#ext_menu-5g .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-5g .close-icon::before,
+#ext_menu-5g .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-5g .link,
+#ext_menu-5g .dropdown-item {
+  color: #000000;
+}
+#ext_menu-5g .link {
+  font-size: 0.8rem;
+}
+#ext_menu-5g .dropdown-item,
+#ext_menu-5g .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-5g .link:hover,
+#ext_menu-5g .dropdown-item:hover,
+#ext_menu-5g .link:focus,
+#ext_menu-5g .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-5g .link[aria-expanded="true"],
+#ext_menu-5g .dropdown-menu {
+  background: #71c29e;
+}
+#ext_menu-5g .nav-dropdown-sm .link:focus,
+#ext_menu-5g .nav-dropdown-sm .link:hover,
+#ext_menu-5g .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-5g .nav-dropdown-sm .dropdown-item:hover {
+  background: #8accaf!important;
+}
+#ext_menu-5g .navbar,
+#ext_menu-5g .nav-dropdown-sm,
+#ext_menu-5g .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-5g .nav-dropdown-sm .dropdown-menu {
+  background: #95d1b6;
+}
+#ext_menu-5g .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-5g .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-5g .bg-color.transparent.opened .link:hover,
+#ext_menu-5g .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-5g .link[aria-expanded="true"],
+#ext_menu-5g .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#msg-box8-5o .mbr-section-title,
+#msg-box8-5o p {
+  color: #fff;
+}
+#msg-box8-5o .lead {
+  color: #ffffff;
+}
+#msg-box8-5o .lead P {
+  text-align: center;
+  font-size: 19px;
+  font-family: 'Raleway', sans-serif;
+}
+#header3-6b .mbr-section-title,
+#header3-6b .mbr-section-subtitle {
+  text-align: center;
+}
+#contacts3-5c LI {
+  color: #ffffff;
+}
+#contacts3-5c P {
   color: #ffffff;
 }
